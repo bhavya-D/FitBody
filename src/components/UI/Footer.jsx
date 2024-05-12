@@ -74,7 +74,7 @@ const Footer = () => {
           </a>
           <a href="/#">
             {" "}
-            <i class="ri-twitter-fill"></i>{" "}
+            <i class="ri-twitter-x-fill"></i>{" "}
           </a>
 
           {/* <i class="ri-twitter-x-fill"></i> */}
